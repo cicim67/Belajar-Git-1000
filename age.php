@@ -1,6 +1,6 @@
 <?php
-// Nama  	:Doni Satrio Nama
-// NIM		:NIM
+// Nama  	:
+// NIM		:kkk
 
 class age{
 	public $umur;
